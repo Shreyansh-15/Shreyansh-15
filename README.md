@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 🔭 I’m currently working on building my own journal app<br>🤝 I’m looking for help with making real world projects<br>🌱 I’m currently learning HTML, Python, Java Script, React js, Dev Ops, MERN Stack, 
 
 
